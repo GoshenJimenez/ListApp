@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Goshen.Jimenez.List.Web/1.0.0": {
+        "runtime": {
+          "Goshen.Jimenez.List.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Goshen.Jimenez.List.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

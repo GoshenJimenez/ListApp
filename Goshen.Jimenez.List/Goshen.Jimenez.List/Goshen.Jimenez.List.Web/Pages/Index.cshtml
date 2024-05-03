@@ -1,0 +1,41 @@
+﻿@page 
+@model Index
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email Address</th>
+            <th scope="col">Course</th>
+            <th scope="col">Date of Birth</th>
+            <th scope="col">Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int? ctr = 1;
+            foreach (var student in Model.Students!)
+            {
+                <tr>
+                    <th scope="row">@ctr</th>
+                    <td>@student!.Name</td>
+                    <td>@student!.EmailAddress</td>
+                    <td>@student!.Course</td>
+                    <td>@student!.DateOfBirth!.Value.ToString("dd MMM yyyy")</td>
+                    <td>@(DateTime.Now.AddYears((student!.DateOfBirth!.Value.Year)*-1).Year)</td>
+                </tr>
+                ctr++;
+            }
+        }
+    </tbody>
+</table>

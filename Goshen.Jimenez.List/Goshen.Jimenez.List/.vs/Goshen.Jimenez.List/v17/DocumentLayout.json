@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goshen\\Desktop\\classes\\IfStatement\\Goshen.Jimenez.List\\Goshen.Jimenez.List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274B57BD-C309-4E8B-B1C4-E06B3BDB32E1}|Goshen.Jimenez.List.Web\\Goshen.Jimenez.List.Web.csproj|c:\\users\\goshen\\desktop\\classes\\ifstatement\\goshen.jimenez.list\\goshen.jimenez.list\\goshen.jimenez.list.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B57BD-C309-4E8B-B1C4-E06B3BDB32E1}|Goshen.Jimenez.List.Web\\Goshen.Jimenez.List.Web.csproj|solutionrelative:goshen.jimenez.list.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B57BD-C309-4E8B-B1C4-E06B3BDB32E1}|Goshen.Jimenez.List.Web\\Goshen.Jimenez.List.Web.csproj|c:\\users\\goshen\\desktop\\classes\\ifstatement\\goshen.jimenez.list\\goshen.jimenez.list\\goshen.jimenez.list.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B57BD-C309-4E8B-B1C4-E06B3BDB32E1}|Goshen.Jimenez.List.Web\\Goshen.Jimenez.List.Web.csproj|solutionrelative:goshen.jimenez.list.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Goshen\\Desktop\\classes\\IfStatement\\Goshen.Jimenez.List\\Goshen.Jimenez.List\\Goshen.Jimenez.List.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Goshen.Jimenez.List.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Goshen\\Desktop\\classes\\IfStatement\\Goshen.Jimenez.List\\Goshen.Jimenez.List\\Goshen.Jimenez.List.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Goshen.Jimenez.List.Web\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T05:13:51.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Goshen\\Desktop\\classes\\IfStatement\\Goshen.Jimenez.List\\Goshen.Jimenez.List\\Goshen.Jimenez.List.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Goshen.Jimenez.List.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Goshen\\Desktop\\classes\\IfStatement\\Goshen.Jimenez.List\\Goshen.Jimenez.List\\Goshen.Jimenez.List.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Goshen.Jimenez.List.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:14:06.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

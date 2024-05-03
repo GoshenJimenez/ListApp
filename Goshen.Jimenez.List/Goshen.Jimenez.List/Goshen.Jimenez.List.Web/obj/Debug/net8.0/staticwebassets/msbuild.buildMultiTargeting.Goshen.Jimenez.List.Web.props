@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Goshen.Jimenez.List.Web.props" />
+</Project>
